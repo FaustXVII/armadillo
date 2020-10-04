@@ -1,4 +1,4 @@
-package spring_application;
+package spring_endpoints;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

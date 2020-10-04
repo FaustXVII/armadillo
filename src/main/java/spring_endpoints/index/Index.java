@@ -1,4 +1,4 @@
-package end_points.index;
+package spring_endpoints.index;
 
 public class Index {
 

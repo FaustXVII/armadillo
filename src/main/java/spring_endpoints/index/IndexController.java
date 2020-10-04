@@ -1,4 +1,4 @@
-package end_points.index;
+package spring_endpoints.index;
 
 import java.util.concurrent.atomic.AtomicLong;
 import org.springframework.web.bind.annotation.RequestMapping;
