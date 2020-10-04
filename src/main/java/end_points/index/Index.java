@@ -1,4 +1,4 @@
-package index;
+package end_points.index;
 
 public class Index {
 
